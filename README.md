@@ -2,8 +2,8 @@
 I'm an operations engineer. I have 4 years experience with DevOps practices and 7+ years overall experience as sysops engineer
 
 ### The stack with that i have the most (positive ^^) experience looks like this:
-- k8s or Openshift
-- python and bash
+- Kubernetes (EKS, Openshift)
+- Python and bash
 - AWS
 - Terraform 
 - Helm
