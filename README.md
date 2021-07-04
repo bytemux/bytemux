@@ -1,18 +1,28 @@
 ### Hi, I'm Mike 👋
-I'm an infrastructure engineer, confident with DevOps practices and 6 years overall experience in infrastructure management
+I'm an operations engineer. I have 4 years experience with DevOps practices and 7+ years overall experience as sysops
 
-### 🔭 Recent projects
-Currently I lead the development of [spotcity.io](https://spotcity.io) - Micro-community web app based around points of interest in the city. 
+### The stack that i have the most (positive ^^) experience with looks like this:
+- k8s or Openshift
+- python and bash
+- AWS
+- Terraform 
+- Helm
+- GitlabCI
+- Prometheus/Grafana
+- Ansible
+- ELK
 
-
-This is a small project we have started with my friends. It's in early development stage.
-
-### 🌱 I’m currently learning more about
-- python to speed up ops problem solving & get insight into backend engineering
-- gcp/aws + terraform
-- k8s advanced topics
+### 🌱 What is I'm up to right now
+- Preparing for my AWS Certified Solutions Architect exam
+- Diving in k8s advanced topics
+- Deepening my knowledge in python
 
 <!--
+### 🔭 Recent projects
+Currently I lead the development of [spotcity.io](https://spotcity.io) - Micro-community web app based around points of interest in the city. 
+This is a small project we have started with my friends. It's in early development stage.
+
+
 **bytemux/bytemux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
