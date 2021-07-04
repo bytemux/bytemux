@@ -1,7 +1,7 @@
 ### Hi, I'm Mike 👋
 I'm an operations engineer. I have 4 years experience with DevOps practices and 7+ years overall experience as sysops
 
-### The stack that i have the most (positive ^^) experience with looks like this:
+### The stack with that i have the most (positive ^^) experience looks like this:
 - k8s or Openshift
 - python and bash
 - AWS
