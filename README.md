@@ -4,7 +4,7 @@ I'm an operations engineer. I have 4 years experience with DevOps practices and 
 ### The stack with that i have the most (positive ^^) experience looks like this:
 - Kubernetes (EKS, Openshift)
 - Python and bash
-- AWS
+- AWS (AWS Certified Solutions Architect – Associate)
 - Terraform 
 - Helm
 - GitlabCI
@@ -13,7 +13,6 @@ I'm an operations engineer. I have 4 years experience with DevOps practices and 
 - ELK
 
 ### 🌱 What is I'm up to right now
-- Preparing for my AWS Certified Solutions Architect exam
 - Diving in k8s advanced topics
 - Deepening my knowledge in python
 
