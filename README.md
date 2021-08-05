@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Mike 
 I'm an operations engineer. I have 4 years experience with DevOps practices and 7+ years overall experience as sysops engineer
 
-[cv.pdf](https://github.com/bytemux/bytemux/raw/4410fdd755bbe0c1c5bc1c0e7781285af4abe999/M.Laptev_CV.pdf) | [linkedin](https://www.linkedin.com/in/mlaptev/) | [telegram](https://t.me/bescvetny)
+[cv.pdf](https://github.com/bytemux/bytemux/blob/main/M.Laptev_CV.pdf) | [linkedin](https://www.linkedin.com/in/mlaptev/) | [telegram](https://t.me/bescvetny)
 
 ### 🛸 The stack that i have the most (positive ^^) experience with looks like this:
 - Kubernetes (EKS, Openshift)
