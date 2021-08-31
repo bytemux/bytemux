@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Mike 
 I'm an operations engineer. I have 4 years experience with DevOps practices and 7+ years overall experience as sysops engineer
 
-[cv.pdf](https://github.com/bytemux/bytemux/blob/main/M.Laptev_CV.pdf) | [linkedin](https://www.linkedin.com/in/mlaptev/) | [mail](mailto:bytemux@outlook.com)
+[cv.pdf](https://github.com/bytemux/bytemux/blob/main/M.Laptev_CV.pdf) | [linkedin](https://www.linkedin.com/in/mlaptev/) | [bytemux@outlook.com](mailto:bytemux@outlook.com)
 
 
 
