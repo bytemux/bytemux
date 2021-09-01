@@ -1,9 +1,12 @@
 ### 👋 Hi, I'm Mike 
-I build reliable infrastructure services & implement DevOps practices to advanсe the business needs. 
-I have practical experience with all aspects of DevOps: CI/CD, IaC, config management, k8s, scripting, monitoring/logging/alerting. 
+- 🌩️ I build reliable infrastructure services & implement DevOps practices to help advanсe the business needs. 
+- 🛸 I have practical experience with all key aspects of DevOps: CI/CD, IaC, config management, k8s, scripting, monitoring/logging/alerting.
+
+---
 
 [cv.pdf](https://github.com/bytemux/bytemux/blob/main/M.Laptev_CV.pdf) | [linkedin](https://www.linkedin.com/in/mlaptev/) | **[bytemux@outlook.com](mailto:bytemux@outlook.com)**
 
+---
 
 
 ### 🛸 The stack that i have the most (positive ^^) experience with looks like this:
