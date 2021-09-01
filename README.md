@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Mike 
-I'm an operations engineer. I have 4 years experience with DevOps practices and 7+ years overall experience as sysops engineer
+I build reliable infrastructure services & implement DevOps practices to advanсe the business needs. I have practical experience with all classic aspects of DevOps: CI/CD, IaC, config management, k8s, scripting, monitoring/logging/alerting. I have 4 years experience with DevOps practices and 7+ years overall experience as sysops engineer.
 
 [cv.pdf](https://github.com/bytemux/bytemux/blob/main/M.Laptev_CV.pdf) | [linkedin](https://www.linkedin.com/in/mlaptev/) | **[bytemux@outlook.com](mailto:bytemux@outlook.com)**
 
