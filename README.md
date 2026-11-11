@@ -16,9 +16,9 @@ Contacts: [Mikhail_Laptev_CV.pdf](https://github.com/bytemux/bytemux/blob/main/M
 - ArgoCD, GitHub Actions, GitLab CI
 - Grafana, Loki, Prometheus, Mimir
 - Python, Bash
-- Claude Code
+- Claude Code, Orca
 
 ### 🌱 What I'm up to right now
 - Diving into agentic engineering workflows
 - Building small productivity apps for myself as a hobby. First one is out, more to come!
-  - https://github.com/bytemux/btmx-focus - A native macOS menu-bar focus timer: 30 minutes of focus, 5 minutes of rest, one click away.
+  - [btmx-focus](https://github.com/bytemux/btmx-focus) - A native macOS menu-bar focus timer
