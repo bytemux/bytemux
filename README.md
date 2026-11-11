@@ -22,4 +22,4 @@ Contacts: [Mikhail_Laptev_CV.pdf](https://github.com/bytemux/bytemux/blob/main/M
 - Diving into agentic engineering workflows
 - Building small productivity apps for myself as a hobby
   - [btmx-focus](https://github.com/bytemux/btmx-focus) - A native macOS menu-bar focus timer
-  - 🚧 Coming soon..
+  - 🚧 More coming soon..
