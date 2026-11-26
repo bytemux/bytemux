@@ -21,5 +21,9 @@ Contacts: [Mikhail_Laptev_CV.pdf](https://github.com/bytemux/bytemux/blob/main/M
 ### 🌱 What I'm up to right now
 - Diving into agentic engineering workflows
 - Building small productivity apps for myself as a hobby
-  - [btmx-focus](https://github.com/bytemux/btmx-focus) - A native macOS menu-bar focus timer
-  - 🚧 More coming soon..
+
+| App | What it does | Stage |
+| --- | --- | --- |
+| [btmx-focus](https://github.com/bytemux/btmx-focus) | A native macOS menu-bar focus timer | ✅ Released |
+| [btmx-sdlc](https://github.com/bytemux/btmx-sdlc) | Agentic SDLC framework: conventions, templates, skills and CI that let agents deliver work as PRs | 🚧 In development |
+| [btmx-log](https://github.com/bytemux/btmx-log) | Chat with your future self | 💡 Idea |
